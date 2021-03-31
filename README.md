@@ -1,6 +1,14 @@
 <h2>Programming Cheat Sheets</h2>
+<ul>
+<li><a href="#c">C Programming Language</a></li>
+</ul>
 
-<p> <strong> C Programming Language</strong> </p>
+
+
+
+
+
+<p id ="c"> <strong> C Programming Language</strong> </p>
 
 ```C language
 main() Function
