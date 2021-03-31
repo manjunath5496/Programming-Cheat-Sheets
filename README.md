@@ -10,7 +10,8 @@ main() Function
 
 Include Files
 
-* The purpose of these files is to tell the compiler about the existence of external functions which the source code will make use of.
+* The purpose of these files is to tell the compiler about the existence of external functions which the 
+* source code will make use of.
 
 Preprocessor directives:
   #include "mine.h"	search current working directory first
