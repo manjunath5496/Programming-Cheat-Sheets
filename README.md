@@ -1,6 +1,6 @@
 <h2>Programming Cheat Sheets</h2>
 
-<p> <strong> C </strong> </p>
+<p> <strong> C Programming Language</strong> </p>
 
 ```C language
 main() Function
