@@ -47,4 +47,10 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(25).pdf" style="text-decoration:none;">VIM</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(26).pdf" style="text-decoration:none;">WEB2PY 2.9</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(27).pdf" style="text-decoration:none;">Zypper</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(28).pdf" style="text-decoration:none;">CORE JAVA</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(29).pdf" style="text-decoration:none;">C++ </a></li>                              
+
+ 
+ 
 </ul>
