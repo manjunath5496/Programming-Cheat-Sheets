@@ -90,4 +90,51 @@ Vimperator</a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(54).pdf" style="text-decoration:none;">JavaScript </a></li>
 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(55).pdf" style="text-decoration:none;">ASP / VBScript</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(56).pdf" style="text-decoration:none;">ASP.NET Life-cycle</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(57).pdf" style="text-decoration:none;">AWK</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(58).pdf" style="text-decoration:none;">AWS Command Line Interface</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(59).pdf" style="text-decoration:none;">BIG-O COMPLEXITIES</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(61).pdf" style="text-decoration:none;">Blueprint CSS</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(62).pdf" style="text-decoration:none;">C/C++</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(63).pdf" style="text-decoration:none;">Calculus</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(65).pdf" style="text-decoration:none;">JSP </a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(66).pdf" style="text-decoration:none;">CSS1</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(67).pdf" style="text-decoration:none;">Catalyst</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(68).pdf" style="text-decoration:none;">HTML Character Entities</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(69).pdf" style="text-decoration:none;">Shell Scripting</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(70).pdf" style="text-decoration:none;">VB.NET / C#</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(71).pdf" style="text-decoration:none;">Common
+lisp</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(72).pdf" style="text-decoration:none;">Cocoa</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(73).pdf" style="text-decoration:none;">SQL</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(74).pdf" style="text-decoration:none;">STL</a></li>
+ 
+
+
+
+
 </ul>
