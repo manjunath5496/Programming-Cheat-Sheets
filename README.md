@@ -342,6 +342,29 @@ for PARI / GP</a></li>
 
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(184).pdf" style="text-decoration:none;">Pascal</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(185).pdf" style="text-decoration:none;">SQLite</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(186).pdf" style="text-decoration:none;">scala</a></li>
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(187).pdf" style="text-decoration:none;">Oracle Database
+SQL</a></li>
+                             
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(188).pdf" style="text-decoration:none;">Kotlin</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(189).pdf" style="text-decoration:none;">AngularJS</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(190).pdf" style="text-decoration:none;">Groovy</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(191).pdf" style="text-decoration:none;"> Ruby  </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(192).pdf" style="text-decoration:none;">Swift 5.1</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(193).pdf" style="text-decoration:none;">VB.NET</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(194).pdf" style="text-decoration:none;">Perl</a></li>                              
+
+
 
 
 </ul>
