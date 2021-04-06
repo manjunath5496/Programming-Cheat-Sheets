@@ -296,4 +296,29 @@ Elementary Number Theory</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(157).pdf" style="text-decoration:none;">Algebraic Number Theory</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(158).pdf" style="text-decoration:none;">THE ONE PAGE LINUX MANUAL</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(159).pdf" style="text-decoration:none;">Sage Quick Reference </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(160).pdf" style="text-decoration:none;">Sage Quick Reference: Abstract Algebra</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(161).pdf" style="text-decoration:none;">Sage Quick Reference: Calculus</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(162).pdf" style="text-decoration:none;">Bazaar</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(163).pdf" style="text-decoration:none;">Ruby on Rails </a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(164).pdf" style="text-decoration:none;">YUM COMMAND CHEAT SHEET
+for Red Hat Enterprise Linux</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(165).pdf" style="text-decoration:none;">Designing multicore scalable filesystems with durability and crash consistency</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(166).pdf" style="text-decoration:none;">SAX 2.0 for Java (Core)</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(167).pdf" style="text-decoration:none;">SAX 2.0 for Java (Extensions and Helpers)</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(168).pdf" style="text-decoration:none;">Trigonometry</a></li>
+
+
+
+
+
+
 </ul>
