@@ -133,8 +133,73 @@ lisp</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(73).pdf" style="text-decoration:none;">SQL</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(74).pdf" style="text-decoration:none;">STL</a></li>
  
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(75).pdf" style="text-decoration:none;">CVS</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(76).pdf" style="text-decoration:none;">Linux Command Line</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(77).pdf" style="text-decoration:none;">Developer's Guide
+to the PARI library</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(78).pdf" style="text-decoration:none;">Django</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(79).pdf" style="text-decoration:none;">Doctrine</a></li>
 
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(80).pdf" style="text-decoration:none;">Dot</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(81).pdf" style="text-decoration:none;">Eclipse CDT 6.0</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(82).pdf" style="text-decoration:none;">Eclipse CDT 8.0</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(83).pdf" style="text-decoration:none;">EJB 2.0 Matrix</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(84).pdf" style="text-decoration:none;">GNU Emacs</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(85).pdf" style="text-decoration:none;">Erlang</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(86).pdf" style="text-decoration:none;">Exception Handling in EJB 2.0</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(87).pdf" style="text-decoration:none;">Flash ActionScript</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(88).pdf" style="text-decoration:none;">Flash CS3</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(89).pdf" style="text-decoration:none;">Form helpers</a></li>
+  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(90).pdf" style="text-decoration:none;"> Fortran 90</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(91).pdf" style="text-decoration:none;">Unix/Linux</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(92).pdf" style="text-decoration:none;">GDB</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(93).pdf" style="text-decoration:none;"> Gimp</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(94).pdf" style="text-decoration:none;">Google</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(95).pdf" style="text-decoration:none;">Google App Engine</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(96).pdf" style="text-decoration:none;">Google Maps</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(97).pdf" style="text-decoration:none;">HAProxy Configuration</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(98).pdf" style="text-decoration:none;">HAProxy Troubleshooting</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(99).pdf" style="text-decoration:none;">Java Programming Guide</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(100).pdf" style="text-decoration:none;">JQUERY 1.3 VISUAL</a></li>  
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(101).pdf" style="text-decoration:none;">JQUERY 1.5 VISUAL</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(102).pdf" style="text-decoration:none;">JavaScript and Browser Objects</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(103).pdf" style="text-decoration:none;">Julia </a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(104).pdf" style="text-decoration:none;">JUnit</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(105).pdf" style="text-decoration:none;">Laplace Transforms</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(106).pdf" style="text-decoration:none;">LATEX</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(107).pdf" style="text-decoration:none;">Linux Security</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(108).pdf" style="text-decoration:none;">LINUX System Call</a></li> 
+  
 
 
 </ul>
