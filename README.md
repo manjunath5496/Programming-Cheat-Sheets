@@ -201,5 +201,99 @@ to the PARI library</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(108).pdf" style="text-decoration:none;">LINUX System Call</a></li> 
   
 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(109).pdf" style="text-decoration:none;">Core C# and .NET</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(110).pdf" style="text-decoration:none;">CSS2 </a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(111).pdf" style="text-decoration:none;">CSS2.1</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(112).pdf" style="text-decoration:none;">Keyboard Shortcuts Eclipse 3.1
+Emacs configuration</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(113).pdf" style="text-decoration:none;">Ed Text Editor Summary</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(114).pdf" style="text-decoration:none;">Review of Algebra</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(115).pdf" style="text-decoration:none;">Excel VBA Programming Functions</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(116).pdf" style="text-decoration:none;">Microsoft Excel XP/2003, Level 300</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(117).pdf" style="text-decoration:none;">Firefox Keyboard Shortcuts</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(118).pdf" style="text-decoration:none;">GIT FOR SUBVERSION USERS</a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(119).pdf" style="text-decoration:none;">Go</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(120).pdf" style="text-decoration:none;">HTML5</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(121).pdf" style="text-decoration:none;">HTTP/1.1 Status Codes</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(122).pdf" style="text-decoration:none;">Ai Illustrator
+CC 2015 </a></li>  
+     
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(123).pdf" style="text-decoration:none;">Id InDesign
+CC 2015</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(124).pdf" style="text-decoration:none;">Useful Inequalities</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(125).pdf" style="text-decoration:none;">Installation Guide for the UNIX Versions</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(126).pdf" style="text-decoration:none;">Intel x86-64 architecture </a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(127).pdf" style="text-decoration:none;">Intel Assembler 80186 and higher</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(128).pdf" style="text-decoration:none;">Java Quick Reference</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(129).pdf" style="text-decoration:none;">JQuery API/1.2</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(130).pdf" style="text-decoration:none;">JQuery 1.2 </a></li>    
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(131).pdf" style="text-decoration:none;">Lua 5.1 C API</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(132).pdf" style="text-decoration:none;">Lua 5.1 C API short reference</a></li>   
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(133).pdf" style="text-decoration:none;">MATLAB</a></li>     
+   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(134).pdf" style="text-decoration:none;">MATLAB Toolbox</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(135).pdf" style="text-decoration:none;">Maxima</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(136).pdf" style="text-decoration:none;">Measurement Formulas</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(137).pdf" style="text-decoration:none;">Microsoft Foundation Class (MFC)</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(138).pdf" style="text-decoration:none;">Microformats</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(139).pdf" style="text-decoration:none;">.NET Standard DateTime Format Strings</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(140).pdf" style="text-decoration:none;">.NET Framework 4 and Extensions</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(141).pdf" style="text-decoration:none;"> OpenCL</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(142).pdf" style="text-decoration:none;">OpenMP</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(143).pdf" style="text-decoration:none;">Org-Mode</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(144).pdf" style="text-decoration:none;">OS X Keyboard</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(145).pdf" style="text-decoration:none;">Introduction
+to parallel GP</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(146).pdf" style="text-decoration:none;">PC Assembly Language</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(147).pdf" style="text-decoration:none;">Programming from the Ground Up</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(148).pdf" style="text-decoration:none;">Sage Quick Reference: Graph Theory</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(149).pdf" style="text-decoration:none;">Sage Quick Reference: Linear Algebra</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(150).pdf" style="text-decoration:none;">Sage Quick Reference:
+Elementary Number Theory</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(151).pdf" style="text-decoration:none;">Readline Emacs Editing Mode </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(152).pdf" style="text-decoration:none;">Pari-GP </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(153).pdf" style="text-decoration:none;">Elliptic Curves</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(154).pdf" style="text-decoration:none;">Important Shell Commands</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(155).pdf" style="text-decoration:none;">L-functions</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(156).pdf" style="text-decoration:none;">Modular forms, modular symbols</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(157).pdf" style="text-decoration:none;">Algebraic Number Theory</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(158).pdf" style="text-decoration:none;">THE ONE PAGE LINUX MANUAL</a></li>
 
 </ul>
