@@ -308,7 +308,7 @@ Elementary Number Theory</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(164).pdf" style="text-decoration:none;">YUM COMMAND CHEAT SHEET
 for Red Hat Enterprise Linux</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(165).pdf" style="text-decoration:none;">Designing multicore scalable filesystems with durability and crash consistency</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(165).pdf" style="text-decoration:none;">TEX</a></li> 
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(166).pdf" style="text-decoration:none;">SAX 2.0 for Java (Core)</a></li> 
 
