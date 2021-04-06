@@ -100,7 +100,7 @@ Vimperator</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(58).pdf" style="text-decoration:none;">AWS Command Line Interface</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(59).pdf" style="text-decoration:none;">BIG-O COMPLEXITIES</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(60).pdf" style="text-decoration:none;">DRUPAL 6 </a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(61).pdf" style="text-decoration:none;">Blueprint CSS</a></li>
  
@@ -108,7 +108,7 @@ Vimperator</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(63).pdf" style="text-decoration:none;">Calculus</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(64).pdf" style="text-decoration:none;">Sage Dynamics</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(65).pdf" style="text-decoration:none;">JSP </a></li> 
 
