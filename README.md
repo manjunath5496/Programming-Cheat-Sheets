@@ -318,6 +318,29 @@ for Red Hat Enterprise Linux</a></li>
 
 
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(169).pdf" style="text-decoration:none;">A Tutorial
+for PARI / GP</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(170).pdf" style="text-decoration:none;">Tutorial for Modular Forms in Pari/GP</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(171).pdf" style="text-decoration:none;">Docker</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(172).pdf" style="text-decoration:none;">Ansible</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(173).pdf" style="text-decoration:none;">Machine Learning</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(174).pdf" style="text-decoration:none;">Data Structures and Algorithms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(175).pdf" style="text-decoration:none;">Sorting algorithms</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(176).pdf" style="text-decoration:none;">Symmetric Encryption Algorithms</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(177).pdf" style="text-decoration:none;">CPSC221MT</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(178).pdf" style="text-decoration:none;">Puppet Module</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(179).pdf" style="text-decoration:none;">MongoDB</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(180).pdf" style="text-decoration:none;">PHP</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(181).pdf" style="text-decoration:none;">Node.JS</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(182).pdf" style="text-decoration:none;">Express.js </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(183).pdf" style="text-decoration:none;">TypeScript</a></li>
+
+
 
 
 
