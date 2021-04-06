@@ -70,5 +70,24 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(41).pdf" style="text-decoration:none;">Apache</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(42).pdf" style="text-decoration:none;">Regular ASCII</a></li>
  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(43).pdf" style="text-decoration:none;">Integrals</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(44).pdf" style="text-decoration:none;">Limits</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(45).pdf" style="text-decoration:none;">Haskell</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(46).pdf" style="text-decoration:none;">HTML AND XHTML</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(47).pdf" style="text-decoration:none;">HTML5 Canvas</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(48).pdf" style="text-decoration:none;">User's Guide to PARI / GP</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(49).pdf" style="text-decoration:none;">VIM LATEX-SUITE</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(50).pdf" style="text-decoration:none;">
+Vimperator</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(51).pdf" style="text-decoration:none;">WebGL 1.0 API</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(52).pdf" style="text-decoration:none;">IRC</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(53).pdf" style="text-decoration:none;">jQuery</a></li>
  
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(54).pdf" style="text-decoration:none;">JavaScript </a></li>
+
 </ul>
