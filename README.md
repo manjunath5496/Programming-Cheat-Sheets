@@ -50,7 +50,25 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(28).pdf" style="text-decoration:none;">CORE JAVA</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(29).pdf" style="text-decoration:none;">C++ </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(30).pdf" style="text-decoration:none;">Taming Sandcastle: A .NET Programmer's Guide to Documenting Your Code</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(31).pdf" style="text-decoration:none;">Geometry</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(32).pdf" style="text-decoration:none;">Apple OS X command line</a></li> 
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(33).pdf" style="text-decoration:none;">Flex 3</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(34).pdf" style="text-decoration:none;">TRIANGLE</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(35).pdf" style="text-decoration:none;">Abstract Algebra</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(36).pdf" style="text-decoration:none;">MATH 1401 SPRING 2000</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(37).pdf" style="text-decoration:none;">Acrobat Pro DC</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(38).pdf" style="text-decoration:none;">Acrobat 8</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(39).pdf" style="text-decoration:none;">Algebra</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(40).pdf" style="text-decoration:none;">AMSTEX</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(41).pdf" style="text-decoration:none;">Apache</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Programming-Cheat-Sheets/blob/master/ch(42).pdf" style="text-decoration:none;">Regular ASCII</a></li>
  
  
 </ul>
